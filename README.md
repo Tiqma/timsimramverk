@@ -26,3 +26,6 @@ Kontrollera om tabellen documents finns:
 
 Om tabellen documents inte finns, skapa den genom att köra SQL-kommandot:
     .read db/migrate.sql
+
+---------------------------------
+Vi har valt att använda oss av front ramverked React
