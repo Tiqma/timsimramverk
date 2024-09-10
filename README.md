@@ -29,3 +29,5 @@ Om tabellen documents inte finns, skapa den genom att köra SQL-kommandot:
 
 ---------------------------------
 Vi har valt att använda oss av frontend ramverked React
+
+Refaktorering
